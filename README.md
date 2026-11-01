@@ -1,3 +1,3 @@
 # MyOwnCloude
 
-## [TechnicliteFont Converter](https://cheidru.github.io/roboSculptor/file-storage/)
+## [File storage](https://cheidru.github.io/roboSculptor/file-storage/)
